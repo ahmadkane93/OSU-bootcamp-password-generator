@@ -30,9 +30,9 @@ Check off every box for special characters. Click generate, then copy and paste 
 <br>
 <br>
 <h2>Credit</h2>
-<li>W3 Schools</li>
-<li>MOZ Docs</li>
-<li>Web Dev Simplified Youtube Channel</li>
+<li>W3 Schools: https://www.w3schools.com/howto/howto_js_popup_form.asp</li>
+<li>W3 Schools: https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp</li>
+<li>Web Dev Simplified: https://www.youtube.com/watch?v=iKo9pDKKHnc&t=793s</li>
 <br>
 <br>
 <br>
