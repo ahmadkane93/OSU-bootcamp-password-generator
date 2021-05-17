@@ -18,8 +18,10 @@ https://github.com/ahmadkane93/password-generator
 <br>
 <br>
 <h2> Usage </h2>
-Open the webpage. Click on view requirements.
-Check off every box for special characters. Click generate, then copy and paste generated password.
+<li>Open the webpage.</li>
+<li>Click on view requirements.</li>
+<li>Check off every box for special characters.</li>
+<li>Click generate, then copy and paste generated password.</li>
 <br>
 <br>
 <img src="./Assets/view-requirements.jpg"/>
